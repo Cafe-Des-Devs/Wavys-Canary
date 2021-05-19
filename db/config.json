@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "support": "ID_SUPPORT",
+    "id_bot": "ID_BOT",
+    "prefix": "PREFIX",
+    "owner": ["IDENTIFIANT","IDENTIFIANT"],
+    "footer": "L'équipe de Café Des Devs",
+    "color": "#E56F20"
+    
+}
