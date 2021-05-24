@@ -3,7 +3,7 @@
     "support": "ID_SUPPORT_SERVER",
     "id_bot": "ID_BOT",
     "prefix": "PREFIX",
-    "owner": ["ID","ID"],
+    "owner": ["ID_OWNER","ID_OWNER"],
     "footer": "L'équipe de Café Des Devs",
     "color": "#E56F20"
     
